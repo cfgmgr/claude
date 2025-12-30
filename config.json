@@ -39,7 +39,7 @@
       "Bash(do)",
       "Bash(sort:*)",
       "Bash(paste:*)",
-      "Bash(*:*)"
+      "Bash(:*::*)"
     ],
     "deny": [
       "Bash(git commit:*)",
