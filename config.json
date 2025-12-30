@@ -1,5 +1,6 @@
 {
   "model": "",
+  "thinking: off",
   "permissions": {
     "allow": [
       "Read(**)",
@@ -64,7 +65,7 @@
     ]
   },
   "env": {
-    "MAX_THINKING_TOKENS": "1000"
+    "MAX_THINKING_TOKENS": "1024"
   }
 }
 
