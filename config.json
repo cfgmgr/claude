@@ -1,6 +1,6 @@
-{
+OK {
   "model": "",
-  "thinking: off",
+  "thinking": "off",
   "permissions": {
     "allow": [
       "Read(**)",
