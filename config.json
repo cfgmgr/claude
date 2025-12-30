@@ -1,5 +1,5 @@
 {
-  "model": "sonnet[1m]",
+  "model": "",
   "permissions": {
     "allow": [
       "Read(**)",
@@ -42,7 +42,8 @@
       "Bash(*:*)"
     ],
     "deny": [
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(git push:+)"
     ],
     "ask": []
   },
