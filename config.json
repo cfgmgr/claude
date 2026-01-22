@@ -44,7 +44,7 @@
     ],
     "deny": [
       "Bash(git commit:*)",
-      "Bash(git push:+)"
+      "Bash(git push:*)"
     ],
     "ask": []
   },
